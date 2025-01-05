@@ -1,24 +1,45 @@
-.form {
-    text-align: center;
-    border: 10px solid skyblue;
-    border-radius: 10px;
-    margin-top: 300px;
-    padding-left: 0px;
-    box-shadow: 10px 10px 20px  tomato;
+.im{
+    background-image: url('../icon.jpg');
+    background-size: contain;
+    color:  red;
+    text-align: justify;
+    display: none;
     
-
 }
-body{
-    background-image: url('icon.jpg');
-    background-size: cover;
+.sst{
+    
+    border: 10px  solid red;
+    box-shadow: 10px 10px 10px rebeccapurple;
+    text-align: justify;
+    height: 200px;
+    width: 50%;
+    border-radius: 10px;    
+      
 }
-
-.one{
-    size: 300px;
-    color: red;
-    margin: 10px;
-
+.dt{
+    border: 10px  solid red;
+    box-shadow: 10px 10px 10px rebeccapurple;
+    text-align: justify;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
 }
-.two{
-    margin-bottom: 10px;
+.ddt{
+    text-align: justify;
+    border: 10px  solid red;
+    box-shadow: 10px 10px 10px rebeccapurple;
+    text-align: justify;
+    height: 200px;
+    width: 50%;
+    border-radius: 10px;
+}
+*{
+    padding: 10px;
+}
+.eed{
+    border-radius: 10px;
+    border: 2px solid skyblue;
+    box-shadow: 5px 5px 10px blue;
+
+    
 }
